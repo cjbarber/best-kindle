@@ -42,8 +42,6 @@ Takeaways:
 
  - If you think you want a bigger screen (i.e. >6"), but you want it for reading, change your expectations or don't get a Kindle. Also worth noting that you can change the font size on the Kindle to make it easier to read.
  - Reading many PDFs, graphic novels and comics? Get a tablet instead (e.g. iPad, or Nexus). Thanks /u/mvmntsofthemind
- - Reading technical PDFs that need a larger screen? Get a tablet instead, or a Kindle DX.
+ - Reading technical PDFs that need a larger screen? Get a tablet instead, or a Kindle DX. Thanks /u/fathermocker and /u/pa-guy
  - Kindle Paperwhite advantages: doesn't hurt your eyes
  - Tip: Calibre is great for transferring .mobi files to the Kindle
-
-[currently using this source]
