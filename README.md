@@ -156,6 +156,16 @@ Takeaways:
  - Questions: Older model or current one? Should I get a 3G Kindle if I don't have WiFi at home? Can I transfer books from a computer without WiFi? (Yes)
  - Don't want to spend $119? The basic Kindle at $69 is still a good option, the main drawback is the lack of a backlit screen which makes reading in low light harder. /u/perkited
 
+#### Source #14
+
+http://www.pocket-lint.com/news/123920-kindle-fire-hdx-vs-kindle-fire-hd-what-s-the-difference
+
+Date: October 16, 2013
+
+Takeaways:
+
+ - Want the latest model and not super price sensitive? Get the HDX. Price sensitive? Get the HD (or a different tablet).
+
 #### Other Sources
 
 http://www.reddit.com/r/kindle/comments/1p7h76/kindle_suggestions_for_older_people/
