@@ -46,16 +46,16 @@ Takeaways:
  - Kindle Paperwhite advantages: doesn't hurt your eyes
  - Tip: Calibre is great for transferring .mobi files to the Kindle
  
- #### Source #5
+#### Source #5
  
- http://www.reddit.com/r/kindle/comments/20p0fs/im_curious_about_which_kindle_to_buy/
+http://www.reddit.com/r/kindle/comments/20p0fs/im_curious_about_which_kindle_to_buy/
  
- Date: March 18, 2014
+Date: March 18, 2014
  
- Takeaways:
+Takeaways:
  
-  - Questions people ask: Can I read outdoors with the paperwhite? How is the screen quality and responsiveness? Can I save/highlight phrases/paragraphs/sentences? Can I define words? Can I define words without an internet connection? Can I buy books on the Kindle? 
-  - Kindle Paperwhite seems almost universally the best choice so far if reading is the primary focus.
+ - Questions people ask: Can I read outdoors with the paperwhite? How is the screen quality and responsiveness? Can I save/highlight phrases/paragraphs/sentences? Can I define words? Can I define words without an internet connection? Can I buy books on the Kindle? 
+ - Kindle Paperwhite seems almost universally the best choice so far if reading is the primary focus.
 
 #### Source #6
 
