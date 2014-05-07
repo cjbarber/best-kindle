@@ -1,6 +1,35 @@
 ## Which Amazon Kindle Is The Best?
+By Chris Barber
 
-### Research Notes By Chris Barber
+### Questions
+
+Are you just using it for reading? Kindle Paperwhite.
+
+Can you not afford the Paperwhite? Get a generic ereader, or if you won't be reading in any low-light situations, get the basic Kindle.
+
+Want a bigger screen? Get an iPad or Nexus 7.
+
+Reading mostly PDFs, graphic novels, comic books, or manga? Get an iPad or Nexus 7, or the Kobo Aura HD.
+
+Travel a lot and want to download new books? Get the 3G. Otherwise, you probably don't need it.
+
+Do you want to break from reading and play games or check Facebook? Then get a Fire. However, the Fire isn't extremely well regarded, and you may as well get an iPad or Nexus 7 and just install the Kindle app.
+
+Notes on the Paperwhite.
+
+ - Yes, you can read outdoors.
+ - You can easily highlight and save sentences.
+ - You can define words without an internet connection.
+ - Get it with special offers, save $20, and you can pay $20 to get rid of the ads at any time if you wish.
+ - Join http://lendle.me/ to borrow books for free. Thanks /u/bleuberry73
+ - [This](http://www.amazon.com/Amazon-Kindle-Paperwhite-Leather-Cover/dp/B007R5YFS4/) is a great case for the Paperwhite. Thanks /u/essentialfloss and /u/Stevied1991
+ 
+Quotes on the Paperwhite:
+
+ - "As everyone else has said, if all you want to do is read, get a Paperwhite. It's the best e-reader on the market. I've had one for a bit more than a year and absolutely love it." /u/admiraljohn
+ - "... Another vote for the Paperwhite. It's brilliant! Reading in the dark doesn't strain my eyes because of the backlight." /u/deniably
+
+### Research Notes
 
 Disclosure/Background: I own a Kindle Paperwhite, and think it's great.
 
