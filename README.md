@@ -1,5 +1,5 @@
-## Which Amazon Kindle Is The Best?
-By Chris Barber
+## Which Ebook Reader Is The Best?
+Comparisons and reviews on the Amazon Kindle models and ebook readers, compiled by [Chris Barber](https://twitter.com/chrisbarber).
 
 ### Questions
 
@@ -7,13 +7,13 @@ Are you just using it for reading? Kindle Paperwhite.
 
 Can you not afford the Paperwhite? Get a generic ereader, or if you won't be reading in any low-light situations, get the basic Kindle.
 
-Want a bigger screen? Get an iPad or Nexus 7.
+Want a bigger screen? Get a Kobo Aura HD.
 
 Reading mostly PDFs, graphic novels, comic books, or manga? Get an iPad or Nexus 7, or the Kobo Aura HD.
 
 Travel a lot and want to download new books? Get the 3G. Otherwise, you probably don't need it.
 
-Do you want to break from reading and play games or check Facebook? Then get a Fire. However, the Fire isn't extremely well regarded, and you may as well get an iPad or Nexus 7 and just install the Kindle app.
+Do you want to break from reading and play games or check Facebook? Don't get a Fire. The Fire isn't extremely well regarded, and you may as well get an iPad or Nexus 7 and just install the Kindle app.
 
 Notes on the Paperwhite.
 
